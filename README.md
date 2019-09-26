@@ -13,7 +13,7 @@ A new Flutter application.
 ## APK下载
 - [app-release.apk](https://github.com/joudev/flutter-all-blue/raw/master/apk/app-release.apk)
 ## 浏览器扫码下载
-- ![app-release.apk](https://github.com/joudev/flutter-all-blue/blob/master/screenshots/qrcode.png)
+![app-release.apk](https://github.com/joudev/flutter-all-blue/blob/master/screenshots/qrcode.png)
 
 ## 运行截图
 
