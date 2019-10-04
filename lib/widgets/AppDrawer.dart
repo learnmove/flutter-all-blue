@@ -14,7 +14,7 @@ class AppDrawer extends StatelessWidget {
           children: <Widget>[
             UserAccountsDrawerHeader(
               accountName: Text('joudev'),
-              accountEmail: Text('728600405@qq.com'),
+              accountEmail: Text('joudev@qq.com'),
               currentAccountPicture: InkWell(
                   child: CircleAvatar(
                     backgroundColor: Colors.white,
